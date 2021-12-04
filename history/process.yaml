@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-3C-PARADA301-streamed-parad_sa_sample
 data_stream: RS03AXPS-SF03A-3C-PARADA301-streamed-parad_sa_sample
 end_date: '2021-12-01T21:50:55.950Z'
-last_updated: '2021-12-02T05:55:08.130643'
+last_updated: '2021-12-04T03:26:19.794422Z'
 start_date: '2014-10-07T21:49:42.299Z'
-status: success
+status: pending
