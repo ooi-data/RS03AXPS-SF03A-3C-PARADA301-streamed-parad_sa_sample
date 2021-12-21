@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS03AXPS-SF03A-3C-PARADA301-streamed-parad_sa_sample
-last_request: '2021-12-04T00:31:18.802097Z'
+last_request: '2021-12-21T22:11:00.466959Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-3C-PARADA301-streamed-parad_sa_sample/main/history/response.json
-status: success
+status: pending
